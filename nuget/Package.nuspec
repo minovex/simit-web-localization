@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Simit.Web.Localization</id>
+    <version>1.0.0.0</version>
+    <authors>Mustafa Ozan Vural</authors>
+    <owners>Minovex</owners>
+    <projectUrl>https://github.com/minovex/simit-web-localization</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simit Web Localization Library</description>
+    <tags>Simit C# Web Localization</tags>
+  </metadata>
+</package>
